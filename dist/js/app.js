@@ -1,1 +1,3 @@
-alert('hey')
+console.log('hey')
+
+alert('new commit')
